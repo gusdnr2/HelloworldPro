@@ -9,8 +9,6 @@ public class Main {
 		String name = s.next();
 		System.out.println("[ " + name + " ] 님 환영합니다 어서오세요!");
 		
-		
-
 	}
 
 }
